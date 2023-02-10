@@ -1,2 +1,2 @@
-# bruce-wayne99.github.io
+# jg6660.github.io
 Personal Website
