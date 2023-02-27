@@ -1,2 +1,2 @@
 # jg6660.github.io
-Personal Website
+(Personal Website)[https://jg6660.github.io/]
